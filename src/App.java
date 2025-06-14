@@ -6,7 +6,7 @@ public class App {
         ArbolBinarioClase arbol = new ArbolBinarioClase();
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Árbol Binario: insertar 7 valores (ej. 50 30 40 50 60 70)");
+        System.out.println("Árbol Binario: insertar 10 valores (ej. 50 30 40 50 60 70)");
 
         for (int i=0; i < 10; i++){
             System.out.println("Valor " + (i + 1) + ": ");
